@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishekup5338
-- 👀 I’m interested in Automation Testing
+- 👀 Know the language - SQL, JAVA, PYTHON, JAVA SCRIPT....
 - 🌱 I’m currently learning.....
-- 💞️ I’m looking to collaborate on a project that enhance my knowledge in Automation Testing, Java, Selenium
+- 💞️ I’m looking to collaborate on a project that enhance my knowledge.
 - 📫 How to reach me Mail - abhishekup5338@gmail.com
 
 <!---
