@@ -12,7 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -48,6 +47,8 @@
 
 ###
 <!---
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 abhishekup5338/abhishekup5338 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
