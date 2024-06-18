@@ -45,6 +45,9 @@
 
 <img src="https://raw.githubusercontent.com/abhishekup5338/abhishekup5338/output/snake.svg" alt="Snake animation" />
 
+<img src="https://github.com/abhishekup5338/abhishekup5338/blob/output/snake.svg" />
+
+
 ###
 <!---
 
